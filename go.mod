@@ -3,7 +3,7 @@ module github.com/redboxllc/scuttle
 go 1.17
 
 require (
-	github.com/cenk/backoff v2.1.1+incompatible
+	github.com/cenk/backoff v2.2.1+incompatible
 	github.com/monzo/typhon v0.0.0-20190413083455-45c89a830a76
 )
 
