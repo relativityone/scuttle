@@ -15,7 +15,7 @@ require (
 	github.com/monzo/terrors v0.0.0-20191030112059-325b9ec5dcdf // indirect
 	github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d // indirect
 	github.com/stretchr/testify v1.6.1 // indirect
-	golang.org/x/net v0.7.0 // indirect
+	golang.org/x/net v0.17.0 // indirect
 	golang.org/x/text v0.7.0 // indirect
 	google.golang.org/protobuf v1.23.0 // indirect
 )
