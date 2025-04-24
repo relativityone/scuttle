@@ -1,4 +1,4 @@
-FROM golang:1.23.1-alpine AS dev 
+FROM golang:1.23.8-alpine AS dev
 
 FROM dev AS build
 ARG VERSION="local"
