@@ -1,4 +1,4 @@
-FROM golang:1.25.5-bookworm AS dev
+FROM golang:1.26rc2-bookworm AS dev
 
 FROM dev AS build
 ARG VERSION="local"
