@@ -1,6 +1,6 @@
 module github.com/redboxllc/scuttle
 
-go 1.25.6
+go 1.25.7
 
 require (
 	github.com/cenk/backoff v2.1.1+incompatible
